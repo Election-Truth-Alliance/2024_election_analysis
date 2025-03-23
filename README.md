@@ -1,2 +1,1 @@
-# 2024_election_analysis
-Analysis of the 
+# 2024 Election Analysis
