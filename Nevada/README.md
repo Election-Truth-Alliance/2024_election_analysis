@@ -45,7 +45,7 @@ voting: mail-in, early voting, and Election Day voting. Statewide, the total num
 ### 1.2 Data Analysis
 The analysis stems from CVR data Clark County posted on its [website](https://www.clarkcountynv.gov/). This data is 
 publicly available for download. [Links](https://www.clarkcountynv.gov/government/departments/elections/reports_data_maps/index.php) 
-and [archived links](https://web.archive.org/web/20241228080438/https://elections.clarkcountynv.gov/electionresultsTV/cvr/24G/24G_CVRExport_NOV_Final_Confidential.zip) are provided here, and included in this [repository](24G_CVRExport_NOV_Final_Confidential.csv).
+and [archived links](https://web.archive.org/web/20241228080438/https://elections.clarkcountynv.gov/electionresultsTV/cvr/24G/24G_CVRExport_NOV_Final_Confidential.zip).
 
 CVR data is significant because it shows, on a ballot-by-ballot basis, how votes in Clark County were recorded. It notes 
 whether ballots were cast as Mail-In Votes, Early Votes, or Election Day votes. (Provisional ballots are not included.) 
