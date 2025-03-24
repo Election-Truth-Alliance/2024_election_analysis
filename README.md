@@ -12,6 +12,8 @@ Currently we have the following information about the following swing states:
 
 ### Clark County
 
+See analysis [here](Nevada)
+
 ## Pennsylvania
 
 ### Allegheny
