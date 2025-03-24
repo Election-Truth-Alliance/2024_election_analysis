@@ -16,7 +16,9 @@ See analysis [here](Nevada)
 
 ## Pennsylvania
 
-### Allegheny
+### ### Allegheny
+### Philadelphia County
+### Erie County
 
 ## Coming Soon...
 
